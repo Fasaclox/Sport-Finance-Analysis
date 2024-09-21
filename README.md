@@ -1,25 +1,22 @@
-Financial Performance Report - Power BI Dashboard
+Financial Performance Dashboard
 Overview
-This Power BI report provides an in-depth analysis of the key financial KPIs and their corresponding Performance Indicators (PIs) to drive insights into the company's financial health. The report is designed to help stakeholders track performance metrics across revenue, profitability, operational efficiency, and growth trends.
+This repository contains a Power BI report focused on analyzing the key financial performance indicators (KPIs) of a fitness company. The report delivers insights into the company's revenue, profitability, cost structure, and growth trends, helping stakeholders make informed decisions based on data.
 
-Key Focus Areas:
-Revenue KPIs:
-
+Key Metrics Covered
+1. Revenue KPIs
 Total Revenue
 Revenue by Business Line
 Revenue by Income Group
 Revenue Growth Rate
 Revenue by Month
-Profitability KPIs:
-
+2. Profitability KPIs
 Gross Profit
 Gross Profit Margin
 EBIT (Earnings Before Interest and Taxes)
 EBIT Margin
 Net Profit
 Net Profit Margin
-Cost-Related / Operational Efficiency KPIs:
-
+3. Cost-Related / Operational Efficiency KPIs
 Total Cost of Goods Sold (COGS)
 COGS as a Percentage of Revenue
 COGS by Business Line
@@ -27,15 +24,15 @@ Total Operating Expenses (OPEX)
 OPEX as a Percentage of Revenue
 OPEX by Expense Subgroup
 Interest and Tax Expenses
-Growth and Trend KPIs:
-
+4. Growth and Trend KPIs
 Month-over-Month (MoM) Revenue
 Month-over-Month (MoM) Expense
-Purpose
-This report provides valuable insights into the financial performance of the company, helping to:
+Objective
+The report serves to:
 
-Track revenue streams and profitability trends.
-Analyze cost structures and operational efficiency.
-Identify areas for growth by observing MoM trends.
-Technology Used
-Power BI for report development and visualization
+Analyze and track revenue streams across various business lines and income groups.
+Measure profitability through comprehensive margin and net profit metrics.
+Evaluate operational efficiency by comparing expenses (OPEX and COGS) against revenue.
+Provide actionable insights into business growth through month-on-month comparisons.
+Tools and Technologies
+Power BI for report development and visualization.
